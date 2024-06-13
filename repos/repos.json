@@ -6,6 +6,7 @@
     "branch": "T-Backup",
     "device": "cupida",
     "defconfig": "cupida_defconfig"
+    "km": "v4.0"
   },
   "withKernelSU": true,
   "toolchains": [
@@ -50,6 +51,7 @@
     "branch": "T",
     "device": "cupida",
     "defconfig": "cupida_defconfig"
+    "km": "v4.0"
   },
   "withKernelSU": true,
   "toolchains": [
